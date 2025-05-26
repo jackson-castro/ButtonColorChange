@@ -22,7 +22,7 @@ Com o comando CLI criado, o cliente pode definir a cor dos botões através de u
 1. Clone o repositório dentro da pasta `app/code/` do seu Magento 2.4.8.
 
 ```bash
-git clone https://github.com/jackson-castro/ButtonColorChange.git
+git clone https://github.com/jackson-castro/ButtonColorChange.git Project/ButtonColorChange
 ```
 
 
